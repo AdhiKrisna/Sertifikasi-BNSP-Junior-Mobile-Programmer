@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="biruLangit">#E0F3FF</color>
+    <color name="biruMuda">#78B7D0</color>
+    <color name="hijau">#A2CA71</color>
+</resources>
